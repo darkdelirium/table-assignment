@@ -1,0 +1,21 @@
+{"students": [
+    {
+      "key": 1,
+      "name": "Alex Smith",
+      "age": "18",
+      "subject": "C++ programming",
+      "school": "random school title",
+      "gender": "male",
+      "GPA": "3.45" 
+    },
+    {
+      "key": 2,
+      "name": "John Doe",
+      "age": "20",
+      "subject": "Data structures",
+      "school": "random school title",
+      "gender": "male",
+      "GPA": "3.25" 
+    }
+  ]
+}
